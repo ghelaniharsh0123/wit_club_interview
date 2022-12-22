@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798281818157",
+    "project_id": "wit-club",
+    "storage_bucket": "wit-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798281818157:android:9f7078ddfd3bffa64358a4",
+        "android_client_info": {
+          "package_name": "com.example.wit_club_interview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798281818157-8i7ieltqbhm4i4sad2t29dcttv1meh9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsCOqJ-tzDvGe1i5HVEmcyLlMnMKtJQ_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798281818157-8i7ieltqbhm4i4sad2t29dcttv1meh9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
